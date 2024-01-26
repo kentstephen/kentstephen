@@ -1,4 +1,4 @@
 ### Hi there 👋
 ### My name is Stephen and I am a SQL and Python developer based in Maryland. 
 
-I am on here to collaborate and share projects that I am working on. I am interested in data science and engineering. Check out my [project NYPD calls for service](https://github.com/kentstephen/nypd_calls_for_service), where I compare volume of 911 call data from NYC and how it compares in the summer vs winter. I will soon be adding a way to analyze with temperature.
+I am on here to collaborate and share projects that I am working on. I am interested in data science and engineering. Check out my repo [imdb_postgres_elt)](https://github.com/kentstephen/imdb_postgres_elt), and see how I transform the non-commercial IMDb datasets with SQL. And then run the whole project with Python in [imdb_postgres_elt_python](https://github.com/kentstephen/imdb_postgres_elt_python).
